@@ -1,2 +1,15 @@
+/* Holder takes full screen */
+.holder{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
 
-/* Your CSS Code here. */
+/* Item styling */
+.item-1{
+    width:100px;
+    height:100px;
+    background-color:red;
+}
